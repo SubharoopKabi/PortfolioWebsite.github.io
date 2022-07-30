@@ -1,0 +1,261 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+   
+}
+
+.text{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    position: absolute;
+    right : 100px;
+    top : 50%;
+    font-size:x-large;
+}
+.img{
+    position: absolute;
+    right:500px
+}
+
+.navbar ul{
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color: wheat;
+    border-radius: 8px;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar ul li{
+    font-family: 'Raleway', sans-serif;
+    padding: 40px;
+}
+
+.navbar ul li a{
+
+    text-decoration: none;
+    color : white;
+}
+
+
+span{
+    color:chartreuse;
+}
+
+
+
+.contactpage{
+    text-align: center;
+}
+form {
+    position: absolute;
+    left: 300px;
+    display: inline-block;
+}
+.contactform{
+    padding: 8px;
+    color : white;
+    position: absolute;
+    top: 167px;
+    left: 61px;
+}
+
+.textcontacts{
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 100px;
+    left: 59px;
+    color: coral;
+    font-size: xx-large;
+}
+
+#exampleInputEmail1{
+    display: flex;
+    text-align: left;
+    width: 405px;
+}
+
+#exampleInputPassword1{
+    display: flex;
+    width: 406px;
+}
+
+input { 
+    margin-bottom: 5px; 
+}
+
+.contactform div{
+    padding: 15px 0;
+}
+
+.query{
+    margin-bottom: 5px;
+    display: flex;
+    text-align:left;
+    width: 405px; 
+    height : 164px;
+    color: white;
+}
+
+
+form{
+    font-family: 'Raleway', sans-serif;
+}
+
+.name{
+    color: whitesmoke;
+    width: 338px;
+}
+
+.email{
+    color: antiquewhite;
+}
+
+
+.phone{
+    color: white;
+}
+
+/*Neon Light*/
+a{
+
+    position: relative;
+    display: inline-block;
+    padding: 5px 5px;
+    color: #2196f3;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+
+
+a:hover {
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    transition-delay: 0.1s;
+}
+
+.btn1{
+    color: black;
+    position: relative;
+    top: 302px;
+    left: 860px;
+    background-color: white;
+    padding : 12px;
+    border-radius: 8px;
+    font-size:medium ;
+    font-style: italic;
+}
+
+.btn2{
+    color: black;
+    position: relative;
+    top: 302px;
+    left: 930px;
+    background-color: white;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: medium;
+    font-style: italic;
+ 
+}
+
+.btn1:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+}
+.btn2:hover{
+    cursor: pointer;
+    background-color:aquamarine;
+    color: black;
+    font-weight: bold;
+}
+
+
+.resumeimg{
+    height: 50%;
+    width: 50%;
+    position: relative;
+    left : 310px;
+    margin-bottom: 250px;
+
+}
+
+#btn1{
+   
+    position: relative;
+    left: -81px;
+    top: -163px;
+
+}
+
+.blogheading{
+    color:chartreuse;
+}
+
+.blogcontainer{
+    font-family: 'Edu SA Beginner', cursive;
+
+
+    color: antiquewhite;
+    
+}
+
+.blogitem{
+    font-size: 10px;
+}
+
+.blogitem,.blogitem1,.blogitem2,.blogitem3{
+    margin: 20px;
+    font-size: 11px;
+}
+
+.btnblog1{
+    position: static;
+    padding: 3px;
+
+}
+.btnblog2{
+    position: static;
+    padding: 3px;
+}
+.btnblog3{
+    position: static;
+    padding: 3px;
+}
+.btnblog4{
+    position: static;
+    padding: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
